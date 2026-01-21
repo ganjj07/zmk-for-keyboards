@@ -17,4 +17,4 @@ manifest:
       remote: mctechnology17
       revision: main
   self:
-    path: configconfig
+    path: config
